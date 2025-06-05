@@ -1,6 +1,6 @@
 ## 💌 Página de Contato
 
-Este projeto é uma página de contato desenvolvida com *HTML5* e *CSS3, com foco em um layout elegante, responsivo e funcional.
+Este projeto é uma página de contato desenvolvida com HTML5 e CSS3, com foco em um layout elegante, responsivo e funcional.
 
 ## ✨ Funcionalidades
 
